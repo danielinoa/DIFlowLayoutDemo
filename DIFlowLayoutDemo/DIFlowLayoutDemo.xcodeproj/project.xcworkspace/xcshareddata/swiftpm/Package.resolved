@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "diflowlayout",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/danielinoa/DIFlowLayout.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "a2346d80c887242c6c4ef3f2a3a6305273a8f33d"
+      }
+    }
+  ],
+  "version" : 2
+}
